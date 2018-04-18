@@ -124,6 +124,10 @@
 	+ https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks [Chainer]
 - PixelDCN [https://arxiv.org/pdf/1705.06820.pdf]
 	+ https://github.com/HongyangGao/PixelDCN [Tensorflow]
+- ShuffleSeg [https://arxiv.org/pdf/1803.03816.pdf]
+	+ https://github.com/MSiam/TFSegmentation [TensorFlow]
+- AdaptSegNet [https://arxiv.org/pdf/1802.10349.pdf]
+	+ https://github.com/wasidennis/AdaptSegNet [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
@@ -206,11 +210,15 @@
   + [Pratheepan Dataset](http://cs-chan.com/downloads_skin_dataset.html)
   + [Clothing Co-Parsing (CCP) Dataset](https://github.com/bearpaw/clothing-co-parsing)
   + [Inria Aerial Image](https://project.inria.fr/aerialimagelabeling/)
+  + [ApolloScape](http://apolloscape.auto/scene.html)
+  + [UrbanMapper3D](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17007&pm=14703)
+  + [RoadDetector](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17036&pm=14735)
 
 ## Benchmarks
   + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
   + https://github.com/meetshah1995/pytorch-semseg [PyTorch]
   + https://github.com/GeorgeSeif/Semantic-Segmentation-Suite [Tensorflow]
+  + https://github.com/MSiam/TFSegmentation [Tensorflow]
   + https://github.com/CSAILVision/sceneparsing [Caffe+Matlab]
 
 ## Annotation Tools:
@@ -375,4 +383,5 @@
   + https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/binary-segmentation
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
+  + http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review
 
